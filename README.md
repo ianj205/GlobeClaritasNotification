@@ -16,8 +16,8 @@ This script uses the seismic.controlState variable to identify if a job has comp
 
 To add this in GLOBE Claritas add a RUNPYTHON module at at the end of your flow using the following settings:
 
-`PYTHONFILE`: RunpythonPushover.py
-`FUNCTION` helperMethods
+* `PYTHONFILE`: RunpythonPushover.py
+* `FUNCTION`: helperMethods
 
 
 ###To be done
